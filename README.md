@@ -1,6 +1,9 @@
 ﻿# mevn-stack
 
 Aplicacion que administra y gestiona tareas utilizando MEVN Stack (MongoDB, Express, VueJs, NodeJS).
++ Para instalar: npm install
+
++ Para correr: npm run dev
 
 pasos para desarrollar:
 - npm init --yes (crea un package.json inicial)
